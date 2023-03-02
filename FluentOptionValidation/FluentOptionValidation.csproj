@@ -4,6 +4,14 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        
+        <PackageId>FluentOptionValidation</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Bas Martens</Authors>
+        <Title>Fluent Option Validation</Title>
+        <Description>Allows option validation using Fluent Validation</Description>
+        <ProjectUrl>https://github.com/bmartens88/FluentOptionValidation</ProjectUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>

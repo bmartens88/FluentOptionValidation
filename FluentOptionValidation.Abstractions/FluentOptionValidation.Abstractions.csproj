@@ -4,6 +4,14 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+
+        <PackageId>FluentOptionValidation.Abstractions</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Bas Martens</Authors>
+        <Title>Fluent Option Validation Abstractions</Title>
+        <Description>Provides abstractions used by the FluentOptionValidation package</Description>
+        <ProjectUrl>https://github.com/bmartens88/FluentOptionValidation</ProjectUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
 </Project>

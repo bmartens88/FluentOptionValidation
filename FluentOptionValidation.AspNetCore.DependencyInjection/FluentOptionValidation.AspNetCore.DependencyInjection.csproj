@@ -4,6 +4,14 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+
+        <PackageId>FluentOptionValidation.AspNetCore.DependencyInjection</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Bas Martens</Authors>
+        <Title>Fluent Option Validation AspNetCore integration</Title>
+        <Description>Integrates FluentOptionValidation with the Asp.Net Core DI container</Description>
+        <ProjectUrl>https://github.com/bmartens88/FluentOptionValidation</ProjectUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
